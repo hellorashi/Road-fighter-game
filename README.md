@@ -50,9 +50,9 @@ Basys-3 pin mapping for VGA, clock, and push buttons.
 2. Load the `basys3-9.xdc` file with your Basys-3 VGA & button pin mappings.
 3. Generate the bitstream and program the board.
 4. Control the car:
-   - **BTN0** → Left  
-   - **BTN1** → Reset/game restart  
-   - **BTN2** → Right  
+   - **BTNL** → Left  
+   - **BTNC** → Reset/game restart  
+   - **BTNR** → Right  
 
 ---
 
