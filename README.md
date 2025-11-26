@@ -1,6 +1,6 @@
 #  FPGA Car Racing Game (Basys-3)
 
-A minimal car-racing game implemented on the **Basys-3 (XC7A35T)** FPGA board.  
+A minimal car-racing game implemented on the **Basys-3** FPGA board.  
 Features include VGA output, player movement, rival car spawning using an LFSR, and bounding-box collision detection.
 
 ---
